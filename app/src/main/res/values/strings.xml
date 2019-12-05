@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">android_client</string>
+    <string name="app_name">SoLiDrive Android Client</string>
+    <string name="action_settings">Settings</string>
 </resources>
